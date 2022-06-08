@@ -1,9 +1,9 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "homepage": "https://hamishw.com",
-  "description": "Portfolio site for Hamish Williams",
-  "repository": "https://github.com/HamishMW/portfolio.git",
+  "homepage": "https://cobaltdevelopers.xyz",
+  "description": "Portfolio site for CobaltDev",
+  "repository": "https://github.com/MarkMarus/cobalt",
   "author": "Hamish Williams <hello@hamishw.com>",
   "devDependencies": {
     "@mapbox/rehype-prism": "^0.8.0",
